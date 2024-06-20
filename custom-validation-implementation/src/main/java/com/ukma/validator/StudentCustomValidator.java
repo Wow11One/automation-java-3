@@ -6,7 +6,6 @@ import org.apache.commons.lang3.StringUtils;
 // import com.google.common.collect.Lists;
 import com.ukma.entity.Student;
 import com.ukma.utils.StringValidationUtils;
-import com.ukma.validator.CustomValidator;
 
 import java.io.File;
 import java.util.ArrayList;
